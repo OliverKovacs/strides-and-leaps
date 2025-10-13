@@ -1,1 +1,5 @@
 main
+plot*
+*out
+*sage.py
+*lock*
